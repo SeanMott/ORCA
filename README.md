@@ -16,11 +16,18 @@ ORCA is a tool for injecting mods into Kirby Air Ride netplay
 
     ![alt text](HowToUse_3.png)
 <br>
+
 * Click `Add Pack` to add a new Skin Pack as a option.
     ![alt text](HowToUse_4.png)
+<br>
+
 * Click `Locate Folder` and use the Explorer to naviagte to the folder containing the textures for the desired Skin Pack.
     ![alt text](HowToUse_5.png)
+<br>
+
 Once you hit Save, click `Add` in the Add Skin Prompt. This then adds a new Skin Pack to the list.
     ![alt text](HowToUse_6.png)
+<br>
+
 * Each Skin Pack can be enabled or disable. Once you have the Skin Packs you desire. Under the Mod Injector window, press `Inject!!!`. This will override all textures in the custom Dolphin texture folder. When re-injecting Skin Packs, make sure all desired ones are enabled. Disabled ones will not be copied over.
     ![alt text](HowToUse_7.png)
